@@ -1,4 +1,11 @@
 baseURL = "https://rixycf.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "TEST"
 theme = "hugo_theme_pickles"
+
+[params]
+  twitter = "sea_ricefield"
+  github = "rixycf"
+  author = "rixycf"
+  bio = "パソコンなんもわからん"
+
